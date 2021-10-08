@@ -1,5 +1,5 @@
 # Automatically Generate Objects Tool in Unity
-This tool was developed to create one of nine scenes in Impression of the Sun VR project. In this speical scene, we want to generate a large scale of different objects with different 3D models, colors, and materials based on an input RGB map where green is the place we want to have objects. 
+This tool was created to help with the creation of one of the nine scenes in the Impression of the Sun VR project. In this specific scene, we wanted to generate a large number of different objects with varying 3D models, colors, and materials based on an input RGB map where green is the color where we want to have objects.
 
 To expeience 360 VR experience: https://www.youtube.com/watch?v=CRdhppLBLKw
 
